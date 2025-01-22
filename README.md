@@ -20,7 +20,7 @@ Catalogue des formations que je peux animer (humblement)
   - Micro services
 - Généralités
   - Tests unitaires
-  - Besoins transverses
+  - Besoins transverses (logging, monitoring, transaction, i18n, etc.)
   - CI/CD
   - Le noble art du debug
 
